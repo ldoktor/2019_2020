@@ -56,12 +56,8 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 4. hodina
 
-<a href="2019-04-code.org.jpg">
-    <img align="right" src="2019-04-code.org-small.jpg" style="height:85px">
-</a>
-<a href="2019-04-beebot-zapis-programu.jpg">
-    <img align="right" src="2019-04-beebot-zapis-programu-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-04-code.org-small.jpg" data-full="2019-04-code.org.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-04-beebot-zapis-programu-small.jpg" data-full="2019-04-beebot-zapis-programu.jpg" style="height:85px" class="obrazek">
 
 * Stránky www.code.org - 4. lekce, absolutní pohyb po mapě
 * Beebot
@@ -71,9 +67,7 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 5. hodina
 
-<a href="2019-05-beeboti.jpg">
-    <img align="right" src="2019-05-beeboti-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-05-beeboti-small.jpg" data-full="2019-05-beeboti.jpg" style="height:85px" class="obrazek">
 
 * Stránky www.code.org - 4. lekce, absolutní pohyb po mapě
 * Beebot
@@ -89,12 +83,8 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 7. hodina
 
-<a href="2019-07-beebot-soutez.jpg">
-    <img align="right" src="2019-07-beebot-soutez-small.jpg" style="height:85px">
-</a>
-<a href="2019-07-code.org.jpg">
-    <img align="right" src="2019-07-code.org-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-07-beebot-soutez-small.jpg" data-full="2019-07-beebot-soutez.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-07-code.org-small.jpg" data-full="2019-07-code.org.jpg" style="height:85px" class="obrazek">
 
 * Beebot
     * dokončení zápisu programů
@@ -104,9 +94,7 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 8. hodina
 
-<a href="2019-08-cubetto.jpg">
-    <img align="right" src="2019-08-cubetto-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-08-cubetto-small.jpg" data-full="2019-08-cubetto.jpg" style="height:85px" class="obrazek">
 
 * Stránky www.code.org - 7. lekce - sběr nektaru a výroba medu
 * Cubetto - seznámení s robotem, používání žetonků k programování, hra "koukám a vidím"
@@ -116,12 +104,8 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 <a href="2019-09-st-nicolas.mp4">
     <img align="right" src="2019-09-st-nicolas-small.jpg" style="height:85px">
 </a>
-<a href="2019-09-st-nicolas-cards.jpg">
-    <img align="right" src="2019-09-st-nicolas-cards-small.jpg" style="height:85px">
-</a>
-<a href="2019-09-st-nicolas-parallel-execution.jpg">
-    <img align="right" src="2019-09-st-nicolas-parallel-execution-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-09-st-nicolas-cards-small.jpg" data-full="2019-09-st-nicolas-cards.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-09-st-nicolas-parallel-execution-small.jpg" data-full="2019-09-st-nicolas-parallel-execution.jpg" style="height:85px" class="obrazek">
 
 * Mikuláš (<a href="2019-09-st-nicolas-cards.pdf">kartičky</a>, <a href="2019-09-st-nicolas-hat.pdf">čepice</a>, <a href="2019-09-st-nicolas.dxf">zdroj librecad</a>)
     * Použití kartiček k určení úloh, závislostí a paralelnímu vykonávání
@@ -130,9 +114,7 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 10. hodina
 
-<a href="2019-10-adventni-kalendar.jpg">
-    <img align="right" src="2019-10-adventni-kalendar-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-10-adventni-kalendar-small.jpg" data-full="2019-10-adventni-kalendar.jpg" style="height:85px" class="obrazek">
 
 * Cubetto - pohyb po mapě <a href="2019-10-cubetto-navigace.jpg">pomůcka</a>
 * www.code.org - 7. lekce - sběr nektaru a výroba medu
@@ -154,21 +136,15 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 13. hodina
 
-<a href="2019-13-sipkovana.jpg">
-    <img align="right" src="2019-13-sipkovana-small.jpg" style="height:85px">
-</a>
-<a href="2019-13-ozobot-nastavce.jpg">
-    <img align="right" src="2019-13-ozobot-nastavce-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-13-sipkovana-small.jpg" data-full="2019-13-sipkovana.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-13-ozobot-nastavce-small.jpg" data-full="2019-13-ozobot-nastavce.jpg" style="height:85px" class="obrazek">
 
 * "Šipkovaná" na webu <a href="https://www.umimeprogramovat.cz/sipkovana/">Umíme programovat</a>
 * Bonus - osahání si nových nástavců na Ozoboty
 
 ## 14. hodina
 
-<a href="2019-14-labyrint.jpg">
-    <img align="right" src="2019-14-labyrint-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-14-labyrint-small.jpg" data-full="2019-14-labyrint.jpg" style="height:85px" class="obrazek">
 
 * Soutěž:
     * Speedrun "Šipkované" na webu <a href="https://www.umimeprogramovat.cz/sipkovana/">Umíme programovat</a>
@@ -187,15 +163,9 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 16. hodina
 
-<a href="2019-16-rozebirani.jpg">
-    <img align="right" src="2019-16-rozebirani-small.jpg" style="height:85px">
-</a>
-<a href="2019-16-skladani.jpg">
-    <img align="right" src="2019-16-skladani-small.jpg" style="height:85px">
-</a>
-<a href="2019-16-spousteni.jpg">
-    <img align="right" src="2019-16-spousteni-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-16-rozebirani-small.jpg" data-full="2019-16-rozebirani.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-16-skladani-small.jpg" data-full="2019-16-skladani.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-16-spousteni-small.jpg" data-full="2019-16-spousteni.jpg" style="height:85px" class="obrazek">
 
 * Skládání počítače
     * <a href="2019-16-pocitac-komponenty.png">Co tvoří počítač</a> <a href="2019-16-pocitac-komponenty.dxf">(zdroj)</a>
@@ -205,15 +175,9 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 17. hodina
 
-<a href="2019-17-mariott.jpg">
-    <img align="right" src="2019-17-mariott-small.jpg" style="height:85px">
-</a>
-<a href="2019-17-hdd1.jpg">
-    <img align="right" src="2019-17-hdd1-small.jpg" style="height:85px">
-</a>
-<a href="2019-17-hdd2.jpg">
-    <img align="right" src="2019-17-hdd2-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-17-mariott-small.jpg" data-full="2019-17-mariott.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-17-hdd1-small.jpg" data-full="2019-17-hdd1.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-17-hdd2-small.jpg" data-full="2019-17-hdd2.jpg" style="height:85px" class="obrazek">
 
 * Mario Teaches Typing - psaní všemi deseti na klávesnici
 * www.code.org - 7. - 9. lekce - včelka a umělec
@@ -221,12 +185,8 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 18. hodina
 
-<a href="2019-18-microbit1.jpg">
-    <img align="right" src="2019-18-microbit1-small.jpg" style="height:85px">
-</a>
-<a href="2019-18-microbit2.jpg">
-    <img align="right" src="2019-18-microbit2-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-18-microbit1-small.jpg" data-full="2019-18-microbit1.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-18-microbit2-small.jpg" data-full="2019-18-microbit2.jpg" style="height:85px" class="obrazek">
 
 * www.code.org - lekce 8. a 10. - umělec
 * představení BBC Micro:bit - hledání pokladu
@@ -241,9 +201,7 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 20. hodina
 
-<a href="2019-20-bludiste-cykly.jpg">
-    <img align="right" src="2019-20-bludiste-cykly-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-20-bludiste-cykly-small.jpg" data-full="2019-20-bludiste-cykly.jpg" style="height:85px" class="obrazek">
 
 * cykly
   * www.code.org - lekce 13
@@ -254,9 +212,7 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 22. hodina
 
-<a href="2019-22-code-org.jpg">
-    <img align="right" src="2019-22-code-org-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-22-code-org-small.jpg" data-full="2019-22-code-org.jpg" style="height:85px" class="obrazek">
 
 * Videokonference [návod na připojení](../media/talky-navod.mp4)
   * Řešení domácího cvičení ze 22. hodiny
@@ -264,15 +220,9 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 23. hodina
 
-<a href="2019-23-kosticky.jpg">
-    <img align="right" src="2019-23-kosticky-small.jpg" style="height:85px">
-</a>
-<a href="2019-23-kosticky2.jpg">
-    <img align="right" src="2019-23-kosticky2-small.jpg" style="height:85px">
-</a>
-<a href="2019-23-kosticky3.jpg">
-    <img align="right" src="2019-23-kosticky3-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-23-kosticky-small.jpg" data-full="2019-23-kosticky.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-23-kosticky2-small.jpg" data-full="2019-23-kosticky2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-23-kosticky3-small.jpg" data-full="2019-23-kosticky3.jpg" style="height:85px" class="obrazek">
 
 * Videokonference [návod na připojení](../media/talky-navod.mp4)
   * Robomise kdo kam dojde (L1, L1, L2)
@@ -284,9 +234,7 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 24. hodina
 
-<a href="2019-24-kosticky.jpg">
-    <img align="right" src="2019-24-kosticky-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-24-kosticky-small.jpg" data-full="2019-24-kosticky.jpg" style="height:85px" class="obrazek">
 
 * Videokonference [návod na připojení](../media/talky-navod.mp4)
   * Robomise - vysvětlili jsme si, jak na cykly s počtem opakování (úroveň L3)
@@ -299,15 +247,9 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 25. hodina
 
-<a href="2019-25-kosticky.jpg">
-    <img align="right" src="2019-25-kosticky-small.jpg" style="height:85px">
-</a>
-<a href="2019-25-minecraft.jpg">
-    <img align="right" src="2019-25-minecraft-small.jpg" style="height:85px">
-</a>
-<a href="2019-25-minecraft2.jpg">
-    <img align="right" src="2019-25-minecraft2-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-25-kosticky-small.jpg" data-full="2019-25-kosticky.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-25-minecraft-small.jpg" data-full="2019-25-minecraft.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-25-minecraft2-small.jpg" data-full="2019-25-minecraft2.jpg" style="height:85px" class="obrazek">
 
 
 * Videokonference [návod na připojení](../media/talky-navod.mp4)
@@ -323,12 +265,8 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 27. hodina
 
-<a href="2019-27-clovece-a-zabicky.jpg">
-    <img align="right" src="2019-27-clovece-a-zabicky-small.jpg" style="height:85px">
-</a>
-<a href="2019-27-kostka.jpg">
-    <img align="right" src="2019-27-kostka-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-27-clovece-a-zabicky-small.jpg" data-full="2019-27-clovece-a-zabicky.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-27-kostka-small.jpg" data-full="2019-27-kostka.jpg" style="height:85px" class="obrazek">
 
 * Videokonference [návod na připojení](../media/talky-navod.mp4)
   * Maty se pochlubil svými obrázky z Minecraftu (Wow)
@@ -347,12 +285,8 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 29. hodina
 
-<a href="2019-29-miny.jpg">
-    <img align="right" src="2019-29-miny-small.jpg" style="height:85px">
-</a>
-<a href="2019-29-zabky.jpg">
-    <img align="right" src="2019-29-zabky-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-29-miny-small.jpg" data-full="2019-29-miny.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-29-zabky-small.jpg" data-full="2019-29-zabky.jpg" style="height:85px" class="obrazek">
 
 * Venku
   * Hra miny
@@ -367,12 +301,8 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 ## 30. hodina
 
 
-<a href="2019-30-hrm.jpg">
-    <img align="right" src="2019-30-hrm-small.jpg" style="height:85px">
-</a>
-<a href="2019-30-sifry.jpg">
-    <img align="right" src="2019-30-sifry-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-30-hrm-small.jpg" data-full="2019-30-hrm.jpg" style="height:85px" class="obrazek">
+<img align="right" src="2019-30-sifry-small.jpg" data-full="2019-30-sifry.jpg" style="height:85px" class="obrazek">
 
 * Venku
   * Lehký úvod do šifer [pracovní list](2019-30-sifry.pdf)
@@ -392,9 +322,7 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 32. hodina
 
-<a href="2019-32-beebots.jpg">
-    <img align="right" src="2019-32-beebots-small.jpg" style="height:85px">
-</a>
+<img align="right" src="2019-32-beebots-small.jpg" data-full="2019-32-beebots.jpg" style="height:85px" class="obrazek">
 
 * Venku
   * Beeboti
@@ -404,6 +332,15 @@ Kurz bude organizován [Lukášem Doktorem](../lectors/ldoktor)
   * Bonus - inspirace na příští rok - pásek z ws2812 RGB diod řízený Micro:bitem
 
 * * * * * * * * *
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
 nelze děti mladší 6-7 let učit systematické vědy, neboť se nacházejí
